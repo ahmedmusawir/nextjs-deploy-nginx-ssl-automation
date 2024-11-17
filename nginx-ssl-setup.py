@@ -170,11 +170,18 @@ sudo certbot --nginx -d {domain_full}
 # Reload Nginx to apply the changes once Certbot has completed successfully
 sudo systemctl reload nginx
 
+# Enable the Certbot timer for automatic certificate renewal
+sudo systemctl enable certbot.timer
+
+# Start the Certbot timer (if not already running)
+sudo systemctl start certbot.timer
+
 # Optional: Check the status of the Certbot renewal timer to confirm automatic renewal setup
 sudo systemctl status certbot.timer
 
 # Optional: Test Certbot renewal process with a dry run to ensure it will work smoothly at renewal time
 sudo certbot renew --dry-run
+
 """
 
 print(manual_commands)

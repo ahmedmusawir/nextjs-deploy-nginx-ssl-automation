@@ -20,3 +20,9 @@ The youtube one is shown in the video ... which works, but upon further testing 
 ![Workflow: nginx-ssl-setup.py](https://res.cloudinary.com/dyb0qa58h/image/upload/v1731804514/NEXT.JS_CI_CD_-_PART_2_czpgcb.png)
 
 ---
+
+## Check out these YouTube walk-thru videos:
+
+- [Next.js CI/CD with Nginx & SSL Part 1](https://www.youtube.com/watch?v=_aZdqEnOOJk)
+- [Next.js CI/CD with Nginx & SSL Part 2](<Your YouTube Link Here>)
+

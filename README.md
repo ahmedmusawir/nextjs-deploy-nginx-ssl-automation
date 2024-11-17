@@ -1,5 +1,5 @@
 # nextjs-deploy-nginx-ssl-automation
-Next.js Deployment &amp; CI/CD Automation w/ Nginx &amp; SSL using Certbot &amp; Let's Encrypt
+Next.js Deployment & CI/CD Automation w/ Nginx & SSL using Certbot & Let's Encrypt
 
 ## Plz use the nginx-ssl-setup.py instead of nginx-ssl-setup-youtube.py
 
@@ -7,3 +7,16 @@ The youtube one is shown in the video ... which works, but upon further testing 
 
 -- The Moose
 
+---
+
+# The Workflow: deploy.py
+
+![Workflow: deploy.py](https://res.cloudinary.com/dyb0qa58h/image/upload/v1731804514/NEXT.JS_CI_CD_-_PART_1_q50khf.png)
+
+---
+
+# The Workflow: nginx-ssl-setup.py
+
+![Workflow: nginx-ssl-setup.py](https://res.cloudinary.com/dyb0qa58h/image/upload/v1731804514/NEXT.JS_CI_CD_-_PART_2_czpgcb.png)
+
+---

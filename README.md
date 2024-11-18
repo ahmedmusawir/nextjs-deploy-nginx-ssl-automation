@@ -24,5 +24,5 @@ The youtube one is shown in the video ... which works, but upon further testing 
 ## Check out these YouTube walk-thru videos:
 
 - [Next.js CI/CD with Nginx & SSL Part 1](https://www.youtube.com/watch?v=_aZdqEnOOJk)
-- [Next.js CI/CD with Nginx & SSL Part 2](<Your YouTube Link Here>)
+- [Next.js CI/CD with Nginx & SSL Part 2](https://www.youtube.com/watch?v=YtIm4EpEwlI)
 
